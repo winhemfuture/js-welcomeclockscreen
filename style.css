@@ -1,0 +1,25 @@
+body {
+    background: black;
+}
+#mainblock{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    text-align: center;
+}
+h1{
+    
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron;
+}
+.clock {
+    
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+}
